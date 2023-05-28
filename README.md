@@ -1,5 +1,5 @@
 # DropUI
-![IMG_0128](https://github.com/NuPlay/DropUI/assets/73557895/fac21a3a-c8d7-4b88-b875-f32c0220e6c8)
+![IMG_0142](https://github.com/NuPlay/DropUI/assets/73557895/8f0342ac-7e9b-4272-b47d-3c0c021ec342)
 
 ## 📄 About
 As an enthusiast of app development, I perceived a common misconception: app development is often seen as a complex and intimidating process. To challenge this belief, I created DropUI.

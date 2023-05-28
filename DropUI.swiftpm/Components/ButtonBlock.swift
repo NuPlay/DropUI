@@ -179,7 +179,7 @@ private struct CanvasEditingView: View {
                                     .font(.title3)
                                     .foregroundColor(.white)
                                     .frame(width: 40, height: 40)
-                                    .background(Color.yellow.cornerRadius(10))
+                                    .background(Color.blue.cornerRadius(10))
 
                                 Text("Compliment Button")
                                     .font(.body)
